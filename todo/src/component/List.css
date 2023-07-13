@@ -1,0 +1,50 @@
+
+.hello
+{
+  background-color: rgb(217, 215, 215);
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+.cc
+{
+    text-align: center;
+    margin: 0;
+    padding-top: 30px;
+}
+
+.hello-1
+{
+  margin-top: 40px;
+  transition: all 1s;
+}
+
+.hello-1:hover
+{
+    background-color: black;
+    color: white;
+}
+
+
+
+thead{
+    background-color: black;
+    color: white;
+}
+
+
+table ,td
+{
+    margin-top: 50px ;
+    border: 1px solid;
+    padding: 5px;
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+}
+
+td:hover
+{
+    background-color: rgb(237, 30, 30);
+}
